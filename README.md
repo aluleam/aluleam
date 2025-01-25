@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Masumbuko Alulea</h1>
-<h3 align="center">I am a passionate software developer from South Dakota, who loves solving complex problems through code.</h3>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aluleam" alt="aluleam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
