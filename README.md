@@ -88,7 +88,7 @@
 ### 📊 GitHub Highlights
 <div align="center">
 
-  ![Profile Stats](https://github-readme-stats.vercel.app/api?username=aluleam&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=aluleam&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
   
   ![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=aluleam&theme=react-dark&hide_border=true&area=true)
 
