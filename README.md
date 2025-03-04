@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF79C6&center=true&width=500&lines=✨+Masumbuko+Alulea+✨;💻+Computer+Science+Student;🎓+South+Dakota+State+University;🤖+AI%2FML+Enthusiast" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF79C6¢er=true&width=500&lines=✨+Masumbuko+Alulea+✨;💻+Computer+Science+Student;🎓+South+Dakota+State+University;🤖+AI%2FML+Enthusiast" alt="Animated Header" />
 </h1>
 
 ---
@@ -56,7 +56,7 @@
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-FF6F00?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 #### Specialized Tools
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style{for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
@@ -78,14 +78,10 @@
 
 </div>
 
-
-
 ---
 
 **Color Legend**:  
 ![Advanced](https://img.shields.io/badge/-Advanced-4CAF50) ![Proficient](https://img.shields.io/badge/-Proficient-2196F3) ![Intermediate](https://img.shields.io/badge/-Intermediate-FF9800) ![Beginner](https://img.shields.io/badge/-Beginner-9C27B0)
-
-
 
 ---
 
@@ -118,7 +114,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:Masumbukoalulea@gmail.com">
+  <a href="mailto:makingaberto69@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-Me-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://linkedin.com/in/mk-alulea">
