@@ -1,8 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF79C6¢er=true&width=500&lines=✨+Masumbuko+Alulea+✨;💻+Computer+Science+Student;🎓+South+Dakota+State+University;🤖+AI%2FML+Enthusiast" alt="Animated Header" />
-</h1>
-
----
 
 ### 🎓 **Education**
 
